@@ -52,7 +52,7 @@ We're always looking for passionate Project CW players to help us grow and impro
 
 ## 💬 Stay Connected
 
-*   **Join our Discord Server:** [PCWStats Discord](https://discord.com/invite/2nHHHBWNDw) - The best place for discussions, feedback, and community interaction.
+*   **Join our Discord Server:** [PCWStats Discord](https://thatsinewave.github.io/Discord-Redirect) - The best place for discussions, feedback, and community interaction.
 *   **(Future Socials):** We'll update this section as we expand our presence!
 
 ## 📜 License
