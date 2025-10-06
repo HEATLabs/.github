@@ -6,7 +6,7 @@
 
 **HEAT Labs is your community-driven, one-stop resource for all things World of Tanks: HEAT!**
 
-Our primary project is the [**HEAT Labs Website**](https://HEATLabs.github.io/), dedicated to providing World of Tanks: HEAT players with comprehensive statistics, in-depth guides, and valuable insights to enhance their gameplay.
+Our primary project is the [**HEAT Labs Website**](https://heatlabs.net), dedicated to providing World of Tanks: HEAT players with comprehensive statistics, in-depth guides, and valuable insights to enhance their gameplay.
 
 </div>
 
@@ -57,7 +57,7 @@ We're always looking for passionate World of Tanks: HEAT players to help us grow
 
 ## 📜 License
 
-The HEAT Labs website and its related projects are primarily licensed under the terms specified in our [Project License page](https://HEATLabs.github.io/legal/project-license.html). Please refer to individual repositories for specific licensing information if it differs.
+The HEAT Labs website and its related projects are primarily licensed under the terms specified in our [Project License page](https://heatlabs.net/legal/project-license.html). Please refer to individual repositories for specific licensing information if it differs.
 
 ## ⚠️ Disclaimer
 
