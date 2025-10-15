@@ -2,7 +2,7 @@
 
 # Welcome to the HEAT Labs GitHub Organization! 👋
 
-<img src="https://raw.githubusercontent.com/HEATLabs/HEAT-Labs-Images/refs/heads/main/social-share/HEATLabs.png" alt="HEATLabs Banner"/>
+<img src="https://cdn5.heatlabs.net/social-share/HEATLabs.png" alt="HEATLabs Banner"/>
 
 **HEAT Labs is your community-driven, one-stop resource for all things World of Tanks: HEAT!**
 
