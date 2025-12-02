@@ -18,7 +18,7 @@ We aim to empower the World of Tanks: HEAT community by:
 *   **Keeping Players Informed:** Sharing the latest game news, tournament information, and updates related to World of Tanks: HEAT.
 *   **Being a Central Hub:** Offering a comprehensive "Tankopedia" and other resources to help players explore every facet of the game.
 
-## ✨ What You'll Find on HEATLabs.github.io
+## ✨ What You'll Find on HEATLabs.net
 
 Our website is packed with features to help you dominate the battlefield:
 
