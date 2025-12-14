@@ -59,6 +59,12 @@ We're always looking for passionate World of Tanks: HEAT players to help us grow
 *   **Follow on TikTok:** [HEAT Labs TikTok](https://www.tiktok.com/@heatlabs_official) - Short-form clips and highlights.
 *   **Watch us live on Twitch:** [HEAT Labs Twitch](https://www.twitch.tv/HEATLabs) - Live streams and community events.
 
+## ❤️ Support HEAT Labs
+
+*   **Ko-Fi:** [ko-fi.com/heatlabs](https://ko-fi.com/heatlabs) - One-time or recurring support to help keep HEAT Labs running and free for everyone.
+*   **Buy Me a Coffee:** [buymeacoffee.com/heatlabs](https://buymeacoffee.com/heatlabs) - A quick tip or monthly support that goes directly into development.
+*   **GitHub Sponsors:** [github.com/sponsors/HEATLabs](https://github.com/sponsors/HEATLabs) - Ideal for developers and contributors who want to sustainably support HEAT Labs.
+
 ## 📜 License
 
 The HEAT Labs website and its related projects are primarily licensed under the terms specified in our [Project License page](https://heatlabs.net/legal/project-license.html). Please refer to individual repositories for specific licensing information if it differs.
