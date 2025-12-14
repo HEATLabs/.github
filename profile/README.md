@@ -52,8 +52,12 @@ We're always looking for passionate World of Tanks: HEAT players to help us grow
 
 ## 💬 Stay Connected
 
-*   **Join our Discord Server:** [HEAT Labs Discord](https://thatsinewave.github.io/Discord-Redirect) - The best place for discussions, feedback, and community interaction.
-*   **(Future Socials):** We'll update this section as we expand our presence!
+*   **Join our Discord Server:** [HEAT Labs Discord](https://discord.com/invite/caEFCA9ScF) - The best place for discussions, feedback, and community interaction.
+*   **Watch on YouTube:** [HEAT Labs YouTube](https://www.youtube.com/@HEATLabs-Official) - Videos, showcases, and updates.
+*   **Follow us on X:** [@HEAT_Labs](https://x.com/HEAT_Labs) - News, announcements, and quick updates.
+*   **Join us on Reddit:** [r/HEATLabs](https://www.reddit.com/r/HEATLabs) - Community posts, discussions, and feedback.
+*   **Follow on TikTok:** [HEAT Labs TikTok](https://www.tiktok.com/@heatlabs_official) - Short-form clips and highlights.
+*   **Watch us live on Twitch:** [HEAT Labs Twitch](https://www.twitch.tv/HEATLabs) - Live streams and community events.
 
 ## 📜 License
 
