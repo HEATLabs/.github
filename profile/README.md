@@ -72,3 +72,4 @@ The HEAT Labs website and its related projects are primarily licensed under the 
 ## ⚠️ Disclaimer
 
 HEAT Labs is a fan-made, community project. It is not officially affiliated with, endorsed by, or sponsored by World of Tanks: HEAT or Wargaming.net. All game-related trademarks and content are the property of their respective owners.
+This work includes trademarks and/or copyrighted works that are the exclusive property of Wargaming. All rights reserved by Wargaming. This work is unofficial and is not endorsed by Wargaming.
