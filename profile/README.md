@@ -64,6 +64,7 @@ We're always looking for passionate World of Tanks: HEAT players to help us grow
 *   **Ko-Fi:** [ko-fi.com/heatlabs](https://ko-fi.com/heatlabs) - One-time or recurring support to help keep HEAT Labs running and free for everyone.
 *   **Buy Me a Coffee:** [buymeacoffee.com/heatlabs](https://buymeacoffee.com/heatlabs) - A quick tip or monthly support that goes directly into development.
 *   **GitHub Sponsors:** [github.com/sponsors/HEATLabs](https://github.com/sponsors/HEATLabs) - Ideal for developers and contributors who want to sustainably support HEAT Labs.
+*   **Merch Store (COMING SOON):** - Support HEAT Labs by getting exclusive merch while helping fund the project.
 
 ## 📜 License
 
